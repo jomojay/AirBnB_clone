@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Unittest
-@author: Abubakar Sadiq Suleman and Shomoye Jamiu 
+@author: Abubakar Sadiq Suleman and Shomoye Jamiu
 """
 import sys
 import unittest
